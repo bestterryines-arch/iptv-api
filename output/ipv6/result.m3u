@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/bestterryines-arch/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-12-15 19:12:05
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-12-16 06:59:18
 https://iptv-plus.wangdu.site/play/?hash=4c37f5fa5e2fe9ea8125fae422465a2a149df8bba0d59c607755802180128a19&key=8d151d5e-0912-41c1-8861-195f3c366cd3
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 https://iptv-plus.wangdu.site/play/?hash=4c37f5fa5e2fe9ea8125fae422465a2a149df8bba0d59c607755802180128a19&key=8d151d5e-0912-41c1-8861-195f3c366cd3
@@ -1753,6 +1753,8 @@ http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 https://iptv-plus.wangdu.site/play/?hash=41caa3961239b5da9963a70f23fb24a96c06e9d98830f26a51f6e60ea6fefe52&key=8d151d5e-0912-41c1-8861-195f3c366cd3
 #EXTINF:-1 tvg-name="青田电视台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青田电视台.png" group-title="☘️浙江频道",青田电视台
 https://iptv-plus.wangdu.site/play/?hash=49911cd443c540318109652e123d0ba7196fa981e6a71fd95e759e5be3b8791d&key=8d151d5e-0912-41c1-8861-195f3c366cd3
+#EXTINF:-1 tvg-name="青田电视台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青田电视台.png" group-title="☘️浙江频道",青田电视台
+http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 #EXTINF:-1 tvg-name="遂昌综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/遂昌综合.png" group-title="☘️浙江频道",遂昌综合
 http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="遂昌新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/遂昌新闻综合.png" group-title="☘️浙江频道",遂昌新闻综合

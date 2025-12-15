@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-15 19:12:05,https://iptv-plus.wangdu.site/play/?hash=4c37f5fa5e2fe9ea8125fae422465a2a149df8bba0d59c607755802180128a19&key=8d151d5e-0912-41c1-8861-195f3c366cd3
+2025-12-16 06:59:18,https://iptv-plus.wangdu.site/play/?hash=4c37f5fa5e2fe9ea8125fae422465a2a149df8bba0d59c607755802180128a19&key=8d151d5e-0912-41c1-8861-195f3c366cd3
 
 📺央视频道,#genre#
 CCTV-1,https://iptv-plus.wangdu.site/play/?hash=4c37f5fa5e2fe9ea8125fae422465a2a149df8bba0d59c607755802180128a19&key=8d151d5e-0912-41c1-8861-195f3c366cd3
@@ -886,6 +886,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 龙泉新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 青田电视台,https://iptv-plus.wangdu.site/play/?hash=41caa3961239b5da9963a70f23fb24a96c06e9d98830f26a51f6e60ea6fefe52&key=8d151d5e-0912-41c1-8861-195f3c366cd3
 青田电视台,https://iptv-plus.wangdu.site/play/?hash=49911cd443c540318109652e123d0ba7196fa981e6a71fd95e759e5be3b8791d&key=8d151d5e-0912-41c1-8861-195f3c366cd3
+青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 遂昌综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed
 遂昌新闻综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
 象山新闻综合,https://iptv-plus.wangdu.site/play/?hash=0c03650ada7d3b486a38e51b75d6d2c5a7e38497ef4ce889d16ffcefc5c4f5d8&key=8d151d5e-0912-41c1-8861-195f3c366cd3
