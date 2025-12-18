@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-18 06:59:21,https://iptv-plus.wangdu.site/play/?hash=3495c8dbaa82515419c961d928b3a9f0029746a29ae4adf2a417b3bf709fb481&key=8d151d5e-0912-41c1-8861-195f3c366cd3
+2025-12-18 19:06:31,https://iptv-plus.wangdu.site/play/?hash=3495c8dbaa82515419c961d928b3a9f0029746a29ae4adf2a417b3bf709fb481&key=8d151d5e-0912-41c1-8861-195f3c366cd3
 
 📺央视频道,#genre#
 CCTV-1,https://iptv-plus.wangdu.site/play/?hash=3495c8dbaa82515419c961d928b3a9f0029746a29ae4adf2a417b3bf709fb481&key=8d151d5e-0912-41c1-8861-195f3c366cd3
@@ -2920,6 +2920,7 @@ CCTV-15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227175/index.m3
 音乐广播,https://tv.iill.top/fm/552&token=0ba82b0a75c65ff5f1a8198b9de48d0532f0cf804be54dac2eacd7d0dbd56b0a
 音乐广播,https://tv.iill.top/fm/552&token=bde1753ec6759720c20ecedff6ec428eed4e2dd71d1433181fa7f50b8724a5bf
 音乐广播,https://tv.iill.top/fm/552&token=bc76ab7564df296b4275f3dc9e3cead14dfa08c65b4ac7cd82092d502cef3a24
+音乐广播,https://tv.iill.top/fm/552&token=d01b299b3b7eff22e7b7962a052f17f146b2e5e7c020e54920b6b236fd31d6b1
 
 🏛经典剧场,#genre#
 笑傲江湖,http://lu.wqwqwq.sbs/yy/1354930909
