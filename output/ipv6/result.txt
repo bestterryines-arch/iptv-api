@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-01 06:58:31,https://migu.188766.xyz/?migutoken=62434b336e40addc53f42cd2c96c5c9a&id=CCTV1&type=yy
+2026-01-01 19:06:10,https://migu.188766.xyz/?migutoken=62434b336e40addc53f42cd2c96c5c9a&id=CCTV1&type=yy
 
 📺央视频道,#genre#
 CCTV-1,https://migu.188766.xyz/?migutoken=62434b336e40addc53f42cd2c96c5c9a&id=CCTV1&type=yy
@@ -889,7 +889,6 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 遂昌新闻综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
 象山新闻综合,https://fy.wangdu.site/php/zjdf.php?id=xsxwzh
 象山新闻综合,http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2064364089-983d5fcfae9a4d09aa057bf764ee3e46-0-0fd949d55ab6235a7b59a4f4bc63c9dd
-象山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 衢江新闻综合,https://fy.wangdu.site/php/zjdf.php?id=xwzh5
 衢江新闻综合,http://play-sh13.quklive.com/live/1700720505174325.m3u8?auth_key=2064375472-41d63b8e9fa640e095524f887b847e00-0-994761d464fe3040362842f794f42c9f
 衢江新闻综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
