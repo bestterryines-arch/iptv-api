@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-03 07:01:09,https://migu.188766.xyz/?migutoken=32c5d39642839d14535f63453a09add4&id=CCTV1&type=yy
+2026-01-03 19:05:10,https://migu.188766.xyz/?migutoken=32c5d39642839d14535f63453a09add4&id=CCTV1&type=yy
 
 📺央视频道,#genre#
 CCTV-1,https://migu.188766.xyz/?migutoken=32c5d39642839d14535f63453a09add4&id=CCTV1&type=yy
